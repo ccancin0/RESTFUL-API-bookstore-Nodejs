@@ -1,0 +1,16 @@
+{
+  "name": "bookstore",
+  "version": "1.0.0",
+  "description": "Simple RESTful Api",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies":{
+    "express":"*",
+    "body-parser":"*",
+    "mongoose":"*"
+  },
+  "author": "Carlos Cancino",
+  "license": "ISC"
+}
